@@ -6,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JimSpring001Application {
 
 	public static void main(String[] args) {
-		org.springframework.boot.SpringApplication.run(JimSpring001Application.class, args);
+		org.springframework.boot.SpringApplication.run(JimSpring001Application.class,
+				args);
 	}
 
 }
